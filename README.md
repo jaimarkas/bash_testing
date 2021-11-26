@@ -14,7 +14,7 @@
 4. Se deberá seguir el método de desarrollo [TDD](https://es.wikipedia.org/wiki/Desarrollo_guiado_por_pruebas)
 5. Los commits deben ser en el formato explicado en el proyecto anterior.
 6. No se aceptarán `pull-request` cuyos `Test Unitarios` no sean exitosos; además de cumplir con lo requerido en el `issue`.
-7. El plazo de entrega de cada `issue` será de una semana; luego de ese tiempo se eliminará o se asignará a otra persona.
+7. El plazo de entrega de cada `issue` será de una semana; si luego de ese tiempo no se ha resuelto, se dará una semana más. Si pasado ese tiempo no hay solución propuesta al issue, el proyecto entrará en pausa hasta nuevo aviso.
 
 #### [Volver al inicio](#inicio)
 
